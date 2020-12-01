@@ -18,5 +18,3 @@ def romanToInt(s: str) -> int:
 if __name__ == '__main__':
     s='XIV'
     print(romanToInt(s))
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
