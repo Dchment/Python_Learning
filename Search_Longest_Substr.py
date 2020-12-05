@@ -1,4 +1,4 @@
-#return the specified string's longest substring and its length
+#return the specified string's longest substring without repeated character and its length
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         sub=''
